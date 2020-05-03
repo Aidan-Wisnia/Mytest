@@ -12,6 +12,5 @@ class Person:
 		return (self.mass / (self.height)**2)
 
 
-me = Person("1.76", "74", "Aidan", "Wisnia")
 
 print(me.height)
